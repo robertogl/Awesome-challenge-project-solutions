@@ -1,9 +1,10 @@
 # Awesome-challenge-project-solutions
+**A list of top submissions to the MATLAB and Simulink Challenge Projects**<br>
+
 <img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="120">
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
 <br>
 
-**A list of top submissions to the MATLAB and Simulink Challenge Projects**<br>
 Discover this collection of challenge project solutions across diverse technological trends and applications. This compilation celebrates the achievements of students worldwide who have tackled these challenge projects. It offers inspiring examples of how MathWorks tools are utilized in various applications.
 
 ## Project solutions by technology trends :file_cabinet:
