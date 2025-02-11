@@ -19,7 +19,7 @@ Discover this collection of challenge project solutions across diverse technolog
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
-## All solutions :file_folder:
+## All top solutions :file_folder:
 <table>
 <tr class="odd">
 <td>
