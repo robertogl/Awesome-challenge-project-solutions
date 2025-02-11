@@ -18,13 +18,11 @@ Discover this collection of challenge project solutions across diverse technolog
 - [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
-- [*Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
+- [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
-
 
 ## All solutions :file_folder:
 
-## Accepted solutions to the project 'Sensor Fusion for Autonomous Systems'
 <table>
 <tr class="odd">
 <td>
@@ -41,6 +39,16 @@ Sensor fusion and control for an autonomus self-balancing bicycle<br>
 
 **Author:** Matteo Liguori</br>
 **Affiliation:** King's College London
+</td>
+<td>
+      <img src="https://img.shields.io/static/v1?label=Trend&message=Computer%20Vision&labelColor=red&color=blue" alt="Static Badge">
+      <img src="https://img.shields.io/static/v1?label=Trend&message=Autonomous%20Vehicles&labelColor=red&color=blue" alt="Static Badge">
+      <img src="https://img.shields.io/static/v1?label=Trend&message=Robotics&labelColor=red&color=blue" alt="Static Badge">    
+      <img src="https://img.shields.io/static/v1?label=Trend&message=Drones&labelColor=red&color=blue" alt="Static Badge">   
+  <img src="https://img.shields.io/static/v1?label=Technology&message=SLAM&labelColor=gray&color=green" alt="Static Badge">        
+    <img src="https://img.shields.io/static/v1?label=Technology&message=Sensor%20Fusion&labelColor=gray&color=green" alt="Static Badge">        
+        <img src="https://img.shields.io/static/v1?label=Technology&message=Pose%20Estimation&labelColor=gray&color=green" alt="Static Badge">        
+
 </td>
 </tr>
 </table>
