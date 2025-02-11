@@ -63,7 +63,7 @@ App for indoor SLAM and outdoor pose estimation from MATLAB Mobile data
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matteo-liguori/EKF-Bike-Multibody-Sensor-Fusion-)
 
-**Author:**Hazem Mohsen Abdelaziz</br>
+**Author:** Hazem Mohsen Abdelaziz</br>
 **Affiliation:** Ains Shams University
 </td>
 <td>
